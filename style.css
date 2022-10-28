@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: aqua;
+    padding: 10px;
+}
+
+h1{
+    background-color: aqua;  
+}
+
+footer{
+    background-color: white;
+    color: white;
+}
+
+footer p{
+    background-color: rgb(102, 0, 128);
+    color: white;
+}
+
+footer contacts{
+    background-color: rgb(102, 0, 128);
+    color: black;
+}
+
+nav a{
+    border-radius:24PX;
+    padding: 7px;
+    text-decoration: none;
+    margin: 5pxpx;
+    background-color: blue;
+    color: white;
+}
+
+p{
+    border: 2px solid blue;
+    border-radius: 20px;
+}
